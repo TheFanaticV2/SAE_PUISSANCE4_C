@@ -1,0 +1,4 @@
+Hamidi Yassine
+
+Globalement j'ai fait un test pour chaque direction (horizontale, vertical et les 2 diagonales) pour pouvoir tester les limites 
+J'ai aussi fait des tests qui fonctionne et qui ne fonctionne pas pour accentuer la validité des tests
